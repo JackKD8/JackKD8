@@ -5,8 +5,11 @@ Saya percaya bahwa pemahaman yang dalam tentang cara kerja malware bisa membantu
 
 **Skill:**
 *- Reverse Engineering*
+
 *- C++*
+
 *- Golang*
+
 *- Batch*
 
 **Tools yang Sering Digunakan**
