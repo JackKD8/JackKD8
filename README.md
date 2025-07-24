@@ -14,8 +14,14 @@ Saya percaya bahwa pemahaman yang dalam tentang cara kerja malware bisa membantu
 
 **Tools yang Sering Digunakan**
 🧪 Wireshark – Analisa trafik jaringan
+
 🔍 IDA Pro – Reverse engineering malware (Static)
+
 🧠 x64dbg – Debugger untuk Windows binary (Dynamic)
+
 🧬 Malcat – Binary analysis tool
+
 🧱 HxD – Hex editor untuk file dan memori
+
 🕵️‍♂️ Process Hacker – Melihat proses sistem secara detail
+
